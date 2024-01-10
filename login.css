@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(141, 152, 15);
+    margin: 0;
+    padding: 0;
+}
+.login{
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    margin: 8% auto 0;
+}
+.login h1{
+    color: beige;
+    margin-bottom: 30px;
+}
+.input-box{
+    border: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid black
+}
